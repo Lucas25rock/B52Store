@@ -1,0 +1,6 @@
+#login {
+  width: 50%; /* Ancho fijo o porcentual */
+  margin-left: auto;
+  margin-right: auto;
+  /* También se puede abreviar: margin: 0 auto; */
+}
